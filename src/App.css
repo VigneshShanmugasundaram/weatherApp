@@ -1,0 +1,30 @@
+
+.Header{
+  display:'block';
+  background-color:#000;
+  color:#fff;
+  padding:8px;
+  width:100%;
+}
+.Output{
+  border:1px solid black;
+  padding:4px;
+  display:'block';
+  float:'none';
+  
+}
+
+.searchbox{
+  display:'block';
+  width:95%;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
